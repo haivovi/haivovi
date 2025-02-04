@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi 👋 I'm Hai Tran
+(.NET Developer)
 
+- 📫 How to reach me: haith.contact@gmail.com
+- ⚡ Fun fact: I run my life like a boss - sometimes strict, sometimes on coffee breaks.
+
+
+✨ Our lives are sprinkled with tiny miracles, like precious jewels hidden in plain sight. Unearth them and treasure each moment! ✨
 <!--
 **haivovi/haivovi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
