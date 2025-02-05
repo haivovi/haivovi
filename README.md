@@ -1,5 +1,5 @@
 ## Hi 👋 I'm Hai Tran
-(.NET Developer)
+<.NET Developer>
 
 - 📫 How to reach me: haith.contact@gmail.com
 - ⚡ Fun fact: I run my life like a boss - sometimes strict, sometimes on coffee breaks.
