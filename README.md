@@ -4,7 +4,7 @@
 - 📫 How to reach me: haith.contact@gmail.com
 - ⚡ Fun fact: I run my life like a boss - sometimes strict, sometimes on coffee breaks.
 
-
+👉 "Who you are doesn't matter. In the right environment, you will shine. 😊"
 ✨ Our lives are sprinkled with tiny miracles, like precious jewels hidden in plain sight. Unearth them and treasure each moment! ✨
 <!--
 **haivovi/haivovi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
